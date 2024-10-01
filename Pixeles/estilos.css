@@ -1,0 +1,31 @@
+.px {
+    width: 480px;
+    height: 250px;
+    background-color:beige;
+    color: black;
+    text-align: center;
+}
+
+.cm {
+    width: 12.75cm;
+    height: 7cm;
+    background-color:beige;
+    color: black;
+    text-align: center;
+}
+
+.rem {
+    width: 30rem;
+    height: 15rem;
+    background-color:beige;
+    color: black;
+    text-align: center;
+}
+
+.em {
+    width: 30em;
+    height: 15em;
+    background-color:beige;
+    color: black;
+    text-align: center;
+}
